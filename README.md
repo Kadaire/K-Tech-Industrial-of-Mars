@@ -7,12 +7,14 @@ The Micro-Block series RTG allows new miners to add a small bit of extra power f
 The Small-Block series is another entry level competitor to the MPDG market costing slightly more but producing almost 2x the power of the RTG.   
 The Big-Block series is designed to be the answer to all your power generation needs. 
 
-
 Mod notes: 
 
 This mod simply aims to add a new MPDG system to the game.
 The entry level option, "Micro-Block" series RTG.
+The Upgrade level, "Small-Block" series MPDG. 
 
+An optional download for the end game "Big-Block" model MPDG which installs as a separate mod due to being considerably stronger than any vanilla MPDG.
+This does NOT require you to use the main "K-Tech Industrial Block series" MPDG mod, it works as a standalone or can be loaded with my other mods.
 
 ## Information:
 - Adds a new MPDG: `K-T Industrial Micro-Block RTG`
@@ -22,6 +24,19 @@ The entry level option, "Micro-Block" series RTG.
 - Power Output: `150MW`
 - Requires: `nothing, this is a standalone MPDG, An entry level power generator for newly established ring miners.`
 
+- Adds a new MPDG: `K-T Industrial Small-Block RTG`
+- Cost: `150,000 E$`
+- Electrical Draw: `40MW`
+- Thermal Draw: `2GW`
+- Power Output: `350MW`
+- Requires: `nothing, this is a standalone MPDG, a cheaper alternative to the MPD5035 series MPDG, producing slightly less power at half the cost.`
+
+- Adds a new MPDG: `K-T Industrial Big-Block RTG`
+- Cost: `1,500,000 E$`
+- Electrical Draw: `100MW`
+- Thermal Draw: `3GW`
+- Power Output: `5000MW`
+- Requires: `nothing, this is a standalone MPDG competitor to the weaker vanilla "MPI Town-Class" series MPDG,.`
 
 # Important Compatiblity Note:
 **`K-Tech Industrial` Branded Mods DO NOT currently work with the Industries of Enceladus mod. There is no current workaround for this. Will update this section if that changes.**
