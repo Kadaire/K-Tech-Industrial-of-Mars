@@ -7,11 +7,10 @@ A series of new MPDG's for the hard working industrial miner.
 
 Mod notes: 
 
-This mod simply aims to add a new MPDG system to the game.
-The entry level option, "Micro-Block" series RTG.
-The Upgrade level, "Small-Block" series MPDG. 
-
-An optional download for the end game "Big-Block" model MPDG which installs as a separate mod due to being considerably stronger than any vanilla MPDG.
+This mod simply aims to add a new MPDG system to the game ΔV: Rings of Saturn.
+- The entry level option, "Micro-Block" series RTG.
+- The Upgrade level, "Small-Block" series MPDG. 
+- An optional download for the end game "Big-Block" model MPDG which installs as a separate mod due to being considerably stronger than any vanilla MPDG.
 This does NOT require you to use the main "K-Tech Industrial Block series" MPDG mod, it works as a standalone or can be loaded with my other mods.
 
 ## Information:
