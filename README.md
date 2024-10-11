@@ -38,7 +38,7 @@ This does NOT require you to use the main "K-Tech Industrial Block series" MPDG 
 - Electrical Draw: `100MW`
 - Thermal Draw: `3GW`
 - Power Output: `5000MW`
-- Requires: `nothing, this is a standalone MPDG competitor to the weaker vanilla "MPI Town-Class" series MPDG,.`
+- Requires: `nothing, this is a standalone MPDG competitor to the weaker vanilla "MPI Town-Class" series MPDG producing 5000MW of power at nominal temperatures.`
 
 # Important Compatiblity Note:
 **`K-Tech Industrial` Branded Mods DO NOT currently work with the Industries of Enceladus mod. There is no current workaround for this. Will update this section if that changes.**
