@@ -1,6 +1,4 @@
-# K-Tech Industrial presents the: 
-
-## Block series MPDGs: 
+# K-Tech Industrial presents the Block series MPDGs: 
 
 A series of new MPDG's for the hard working industrial miner. 
 The Micro-Block series RTG allows new miners to add a small bit of extra power for that extra kick a new tool might need. 
