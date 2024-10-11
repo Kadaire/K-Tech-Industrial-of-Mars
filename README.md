@@ -1,9 +1,9 @@
 # K-Tech Industrial presents the Block series MPDGs: 
 
 A series of new MPDG's for the hard working industrial miner. 
-The Micro-Block series RTG allows new miners to add a small bit of extra power for that extra kick a new tool might need. 
-The Small-Block series is another entry level competitor to the MPDG market costing slightly more but producing almost 2x the power of the RTG.   
-The Big-Block series is designed to be the answer to all your power generation needs. 
+- The Micro-Block series RTG allows new miners to add a small bit of extra power for that extra kick a new tool might need. 
+- The Small-Block series is another entry level competitor to the MPDG market costing slightly more but producing almost 2x the power of the RTG.   
+- The Big-Block series is designed to be the answer to all your power generation needs. 
 
 Mod notes: 
 
