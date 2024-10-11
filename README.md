@@ -24,6 +24,7 @@ This does NOT require you to use the main "K-Tech Industrial Block series" MPDG 
 - Power Output: `150MW`
 - Requires: `nothing, this is a standalone MPDG, An entry level power generator for newly established ring miners.`
 
+## Information:
 - Adds a new MPDG: `K-T Industrial Small-Block RTG`
 - Cost: `150,000 E$`
 - Electrical Draw: `40MW`
@@ -31,6 +32,7 @@ This does NOT require you to use the main "K-Tech Industrial Block series" MPDG 
 - Power Output: `350MW`
 - Requires: `nothing, this is a standalone MPDG, a cheaper alternative to the MPD5035 series MPDG, producing slightly less power at half the cost.`
 
+## Information:
 - Adds a new MPDG: `K-T Industrial Big-Block RTG`
 - Cost: `1,500,000 E$`
 - Electrical Draw: `100MW`
