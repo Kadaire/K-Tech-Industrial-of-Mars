@@ -5,7 +5,7 @@
 
 
 # Products on the market.
-- ["Block" Series MPDG](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/tree/"Block"-Series-MPDG/K-Tech%20Industrial%20Block%20Series%20MPDG) The first product KTI put on the market after seeing a gap in the availability of cheaper low power MPDGs for newly established miners, and the top end MPDGs that did not provide enough power for some of the more well established miners in the ring. 
+- ["Block" Series MPDG](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/tree/"Block"-Series-MPDG/K-Tech%20Industrial%20Block%20Series%20MPDG) The flagship product of KTI. The Block series of MPDGs were developed after seeing a gap in the availability of cheaper low power MPDGs for newly established miners, and the top end MPDGs that did not provide enough power for some of the more well established miners in the ring who have been known to apply aftermarket modifications to thier equipment which causes additional strain on the power systems. 
 
 
 
