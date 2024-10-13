@@ -1,9 +1,5 @@
 # K-Tech Industrial Jet Propulsion Labs
 
-The K-Tech Industrial Jet Propulsion Labs design and manufacture new RCS and Main Torch systems for ships. 
-
-
-## Department notes: 
 The `K-Tech Industrial Jet Propulsion Labs` department adds new RCS and Main engine systems to the game as separate mod files. 
 
 
