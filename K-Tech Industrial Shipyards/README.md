@@ -2,7 +2,7 @@
 
 - After speaking with several mining crews that often use the Rusatom-Antonoff-K255 Titan, the CEO of K-Tech Industrial decided to open a new shipyard department. K-Tech Industrial Shipyards has been tasked with overseeing the modification of existing ships to expand thier capabilities. 
 
-# Mod notes: 
+# Department notes: 
 - The `K-Tech Industrial shipyards` department adds new ship variants to the game as separate mod files. 
 
 
