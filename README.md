@@ -2,9 +2,9 @@
 `K-Tech Industrial` is focused on creating robust industrial equipment with the durability to survive the rings of Saturn, Their main production facilities are located in the Hellas Basin on mars.
 
 # Branches
-- The [K-Tech Industrial Generators]() department designs and manufactures new auxiliary power generators for ships as separate mod files.
-- The [K-Tech Industrial Jet Propulsion Labs]() department adds new RCS and Main engine systems to the game as separate mod files. 
-- The [K-Tech Industrial shipyards]() department adds new ship variants to the game as separate mod files. 
+- The [K-Tech Industrial Generators](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/tree/Main/K-Tech%20Industrial%20Generator%20Department) department designs and manufactures new auxiliary power generators for ships as separate mod files.
+- The [K-Tech Industrial Jet Propulsion Labs](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/tree/Main/K-Tech%20Industrial%20Jet%20Propulsion%20Labs) department adds new RCS and Main engine systems to the game as separate mod files. 
+- The [K-Tech Industrial shipyards](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/tree/Main/K-Tech%20Industrial%20Shipyards) department adds new ship variants to the game as separate mod files. 
 
 # Important Compatiblity Note:
 **`K-Tech Industrial` Branded Mods DO NOT currently work with the Industries of Enceladus mod. There is no current workaround for this. Will update this section if that changes.**
