@@ -1,7 +1,4 @@
 # K-Tech Industrial Generators
-
-# Department notes: 
-
 - The `K-Tech Industrial Generators` department designs and manufactures new power generators for ships of all classes.
 
 ## Information:
