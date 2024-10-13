@@ -1,6 +1,6 @@
 # K-Tech Industrial Jet Propulsion Labs
 
-The `K-Tech Industrial Jet Propulsion Labs` department adds new RCS and Main engine systems to the game as separate mod files. 
+- The `K-Tech Industrial Jet Propulsion Labs` department adds new RCS and Main engine systems to the game as separate mod files. 
 
 
 ## K-T INDUSTRIAL "MTR" RCS Thrusters:
