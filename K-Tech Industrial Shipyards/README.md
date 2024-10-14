@@ -8,7 +8,7 @@
 
 ## K225-KTI
 
-- The first new ship variant that K-Tech Industrial Shipyards designed was the "K225-KTI".  The original Rusatom-Antonoff AT-K225 Titan was a behemonth, however the improved "K225-KTI" variant is a true monster. Boasting two new low-stress hardpoints, two new dedicated drone hardpoints, along with an increased internal processed material storage of 26,000Kg, a reworked thruster layout, andtwo new high-stress hardpoints reinforced to support the ARM-1500 Salvage arms, the K225-KTI is designed to be a true workhorse in the belt.
+- The first new ship variant that K-Tech Industrial Shipyards designed was the "K225-KTI".  The original Rusatom-Antonoff AT-K225 Titan was a behemonth, however the improved "K225-KTI" variant is a true monster. Boasting two new low-stress hardpoints, two new dedicated drone hardpoints, along with an increased internal processed material storage of 26,000Kg, a reworked thruster layout, and two new high-stress hardpoints reinforced to support the ARM-1500 Salvage arms, the K225-KTI is designed to be a true workhorse in the belt.
 # 
 - Adds a new AT-K225 variant: `K225-KTI`
 - Approximate Cost: `5,000,000 E$`
