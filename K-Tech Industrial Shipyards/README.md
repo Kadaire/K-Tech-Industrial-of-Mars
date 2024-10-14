@@ -19,7 +19,7 @@
 - Docking Bays: `6`
 
 
-## Kitsumo
+## Kitsumo-KTI
 
 - The second ship variant to roll out of the shipyards of K-Tech Industrial is the "Kitsumo-KTI".
 The Nakamura-Dynamics designed kitsune never managed to reach the hearts of belters, often seen as a downgrade in capabilities for more money than it was worth.   The "Kitsumo-KTI" aims to aleviate some of those negative points, now boasting a forward high-stress mount compatible with special downsized versions of popular mining tools including the ARM-1500,  and a new underside mounted low-stress hardpoint for mounting mining equipment, Designers at KTI Shipyards were also able to increase the internal processed material storage to 36,000Kg by removing several layers of insulating styrofoam from the inner hull.  A single main torch finishes off the new design tweaks.
