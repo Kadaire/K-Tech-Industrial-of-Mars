@@ -9,6 +9,11 @@
 # Important Compatiblity Note:
 **`K-Tech Industrial` Branded Mods DO NOT currently work with the Industries of Enceladus mod. There is no current workaround for this. Will update this section if that changes.**
 
+# Contributors
+- Initial teaching of modding by `Rena-chan` on the DV Discord
+- Huge help from `Digitalbarrito` on the DV discord
+- Dozens of bugfixes and code improvements by 1Za'Krin` on the DV discord
+
 ## Limitation of Liability
 
 - To the fullest extent permitted by applicable law, `K-Tech Industrial` (the “Company”) shall not be held liable for any direct, indirect, incidental, consequential, special, or punitive damages, or for any loss of profits, revenue, data, or business opportunities, arising out of or in connection with the use of its products, services, or any other activities, including but not limited to personal injury, property damage, or any other damages, whether based on contract, tort (including negligence), or any other legal theory. This limitation applies even if the Company has been advised of the possibility of such damages. In no event shall the Company’s total liability exceed the amount paid by the customer for the specific product or service giving rise to the claim.
