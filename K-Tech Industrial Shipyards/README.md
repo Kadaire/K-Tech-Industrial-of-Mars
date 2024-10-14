@@ -11,7 +11,6 @@
 - The first new ship variant that K-Tech Industrial Shipyards designed was the "K225-KTI".  The original Rusatom-Antonoff AT-K225 Titan was a behemonth, however the improved "K225-KTI" variant is a true monster. Boasting two new low-stress hardpoints, two new dedicated drone hardpoints, along with an increased internal processed material storage of 26,000Kg, a reworked thruster layout, and two new high-stress hardpoints reinforced to support the ARM-1500 Salvage arms, the K225-KTI is designed to be a true workhorse in the belt.
 # 
 Adds a new AT-K225 variant: `K225-KTI`
-- Approximate Cost: `5,000,000 E$`
 - High stress Hardpoints: `2`
 - Drone Hardpoints: `2`
 - Low stress Hardpoints: `2`
@@ -25,7 +24,6 @@ Adds a new AT-K225 variant: `K225-KTI`
 The Nakamura-Dynamics designed kitsune never managed to reach the hearts of belters, often seen as a downgrade in capabilities for more money than it was worth.   The "Kitsumo-KTI" aims to aleviate some of those negative points, now boasting a forward high-stress mount compatible with special downsized versions of popular mining tools including the ARM-1500,  and a new underside mounted low-stress hardpoint for mounting mining equipment, Designers at KTI Shipyards were also able to increase the internal processed material storage to 36,000Kg by removing several layers of insulating styrofoam from the inner hull.  A single main torch finishes off the new design tweaks.
 # 
 Adds a new ND-LIS Kitsune variant: `Kitsumo-KTI`
-- Approximate Cost: `600,000 E$`
 - High stress Hardpoints: `1`
 - Low stress Hardpoints: `1`
 - Processed Material Storage: `36,000Kg`
@@ -38,7 +36,6 @@ Adds a new ND-LIS Kitsune variant: `Kitsumo-KTI`
 - The third new ship variant that K-Tech Industrial Shipyards designed was the "OCP230-KTI".  The original Obonto Microengineering OCP209 was a never properly designed for mining in the belt, however the improved "OCP230-KTI" variant should be a pleasant upgrade to miners. the biggest change is with the low-stress hardpoints which have been rotated and split, the left hardpoint is still located near the hab, but the right hardpoint has been moved to the rear reactor housing, both slots have been rotated to face to the right, the same direction as the ships cargo bay opening.  Two new dedicated drone hardpoints have been added to support large scale mining, and the internal processed material bays have been slightly expanded to hold 60,000Kg(combined).
 #
 Adds a new OCP209 variant: `OCP230-KTI`
-- Make: `K-Tech Industrial`
 - High-Stress Hardpoints: `2` 
 - Low-Stress Hardpoints: `2` 
 - Drone Hardpoints: `2`
