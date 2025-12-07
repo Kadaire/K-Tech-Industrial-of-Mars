@@ -1,9 +1,12 @@
 # K-Tech Industrial
 `K-Tech Industrial` is focused on creating robust industrial equipment with the durability to survive the rings of Saturn, Their main production facilities are located in the Hellas Basin on mars.
 
+# Bundles
+- The [K-T Industrial Equipment Labs] contains a third party fix for the AUX generators and Thrusters, these should be compatible with IoER and have built in toggles
+All credit to the fixes and added functionality is to Hev from the DV discord modding community.
+
+
 # Branches
-- The [K-Tech Industrial Generators](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/tree/Main/K-Tech%20Industrial%20Generator%20Department) department designs and manufactures new auxiliary power generators for ships as separate mod files.
-- The [K-Tech Industrial Jet Propulsion Labs](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/tree/Main/K-Tech%20Industrial%20Jet%20Propulsion%20Labs) department adds new RCS and Main engine systems to the game as separate mod files. 
 - The [K-Tech Industrial shipyards](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/tree/Main/K-Tech%20Industrial%20Shipyards) department adds new ship variants to the game as separate mod files. 
 - The [K-Tech Industrial Electronics](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/tree/Main/K-Tech%20Industrial%20Electronics) department adds Various new electronics upgrades to the game as separate mod files. 
 
