@@ -2,7 +2,8 @@
 `K-Tech Industrial` is focused on creating robust industrial equipment with the durability to survive the rings of Saturn, Their main production facilities are located in the Hellas Basin on mars.
 
 # Bundles
-- The [K-T Industrial Equipment Labs](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/blob/Main/K-T%20Industrial%20Equipment%20Labs.zip) contains a third party fix for the AUX generators and Thrusters, these should be compatible with IoER and have built in toggles
+- The [K-T Industrial Equipment Labs](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/blob/Main/K-T%20Industrial%20Equipment%20Labs.zip) (right click > save link as ...) contains a third party fix for the AUX generators and Thrusters, these should be compatible with IoER and have built in toggles
+
 All credit to the fixes and added functionality is to Hev from the DV discord modding community.
 
 
