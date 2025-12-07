@@ -2,13 +2,13 @@
 `K-Tech Industrial` is focused on creating robust industrial equipment with the durability to survive the rings of Saturn, Their main production facilities are located in the Hellas Basin on mars.
 
 # Bundles
-- The [K-T Industrial Equipment Labs] contains a third party fix for the AUX generators and Thrusters, these should be compatible with IoER and have built in toggles
+- The [K-T Industrial Equipment Labs](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/blob/Main/K-T%20Industrial%20Equipment%20Labs.zip) contains a third party fix for the AUX generators and Thrusters, these should be compatible with IoER and have built in toggles
 All credit to the fixes and added functionality is to Hev from the DV discord modding community.
 
 
 # Branches
 - The [K-Tech Industrial shipyards](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/tree/Main/K-Tech%20Industrial%20Shipyards) department adds new ship variants to the game as separate mod files. 
-- The [K-Tech Industrial Electronics](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/tree/Main/K-Tech%20Industrial%20Electronics) department adds Various new electronics upgrades to the game as separate mod files. 
+- The [K-Tech Industrial Electronics](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/tree/Main/K-Tech%20Industrial%20Electronics) department hosts a single mod made by ZKY which adds a zoom function to the pilot LIDAR screen on the J Menu. 
 
 # Important Compatiblity Note:
 **`K-Tech Industrial` Branded Mods DO NOT currently work with the Industries of Enceladus mod. There is no current workaround for this. Will update this section if that changes.**
