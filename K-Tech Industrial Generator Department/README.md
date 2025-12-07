@@ -1,3 +1,8 @@
+- The [K-T Industrial Equipment Labs](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/blob/Main/K-Tech%20Industrial%20Generator%20Department/K-T%20Industrial%20Equipment%20Labs) contains a third party bundle / fix for the AUX generators and Thrusters, these in theory should be compatible with IoER and have built in toggles
+All credit to the fixes and added functionality is to Hev from the DV discord modding community.
+
+
+
 # K-Tech Industrial Generators
 - The `K-Tech Industrial Generators` department designs and manufactures new power generators for ships of all classes.
 
@@ -32,3 +37,4 @@
 ## Limitation of Liability
 
 - To the fullest extent permitted by applicable law, `K-Tech Industrial` (the “Company”) shall not be held liable for any direct, indirect, incidental, consequential, special, or punitive damages, or for any loss of profits, revenue, data, or business opportunities, arising out of or in connection with the use of its products, services, or any other activities, including but not limited to personal injury, property damage, or any other damages, whether based on contract, tort (including negligence), or any other legal theory. This limitation applies even if the Company has been advised of the possibility of such damages. In no event shall the Company’s total liability exceed the amount paid by the customer for the specific product or service giving rise to the claim.
+
